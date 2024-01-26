@@ -1,0 +1,29 @@
+{
+  "checksum": "ca5991104d90f0ee9a5e3ff8fcfd1797",
+  "root": "ocaml-dwarf-dump-as-on-20240125@link-dev:./esy.json",
+  "node": {
+    "ocaml-dwarf-dump-as-on-20240125@link-dev:./esy.json": {
+      "id": "ocaml-dwarf-dump-as-on-20240125@link-dev:./esy.json",
+      "name": "ocaml-dwarf-dump-as-on-20240125",
+      "version": "link-dev:./esy.json",
+      "source": { "type": "link-dev", "path": ".", "manifest": "esy.json" },
+      "overrides": [],
+      "dependencies": [ "ocaml@5.1.4@d41d8cd9" ],
+      "devDependencies": []
+    },
+    "ocaml@5.1.4@d41d8cd9": {
+      "id": "ocaml@5.1.4@d41d8cd9",
+      "name": "ocaml",
+      "version": "5.1.4",
+      "source": {
+        "type": "install",
+        "source": [
+          "archive:https://registry.npmjs.org/ocaml/-/ocaml-5.1.4.tgz#sha1:51c3dd9ef69db5ad52c6431ba6336095e37215ab"
+        ]
+      },
+      "overrides": [],
+      "dependencies": [],
+      "devDependencies": []
+    }
+  }
+}
